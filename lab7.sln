@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "square of triangle", "square of triangle\square of triangle.csproj", "{A271136A-84F3-4E94-9AB8-5B3F49815B81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "volume and surface square of cube", "volume and surface square of cube\volume and surface square of cube.csproj", "{D453CD78-2E68-4137-AC96-612F53756120}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A271136A-84F3-4E94-9AB8-5B3F49815B81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A271136A-84F3-4E94-9AB8-5B3F49815B81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A271136A-84F3-4E94-9AB8-5B3F49815B81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A271136A-84F3-4E94-9AB8-5B3F49815B81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D453CD78-2E68-4137-AC96-612F53756120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D453CD78-2E68-4137-AC96-612F53756120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D453CD78-2E68-4137-AC96-612F53756120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D453CD78-2E68-4137-AC96-612F53756120}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B509599-8D57-4CDE-80CE-EA21872C53FE}
+	EndGlobalSection
+EndGlobal
